@@ -177,7 +177,7 @@ A collection of custom plugins, WooCommerce extensions and automation tools buil
 # 🤝 Let's Connect
 
 <p>
-
+•
 <a href="https://github.com/JaberWeb">
 GitHub
 </a>
@@ -190,6 +190,16 @@ LinkedIn
 •
 <a href="mailto:molla.jaber@gmail.com">
 Email
+</a>
+
+•
+<a href="https://fiverr.com/blackash_web">
+Fiverr
+</a>
+
+•
+<a href="https://www.upwork.com/freelancers/~01be9a8b9f4bf4ef96">
+Upwork
 </a>
 
 </p>
