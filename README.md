@@ -9,7 +9,7 @@ Hi 👋 I'm Jaber
 </h1>
 
 <h3 align="center">
-Senior Full Stack Web Developer | PHP Engineer | Shopify App Developer | WordPress & WooCommerce Specialist
+Senior Full Stack Web Developer | Next.js & Express | Shopify App Developer | WordPress & WooCommerce Specialist
 </h3>
 
 <p align="center">
