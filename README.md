@@ -157,7 +157,7 @@ A collection of custom plugins, WooCommerce extensions and automation tools buil
 ---
 
 # 📈 GitHub Stats
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaberWeb&show_icons=true&theme=github_dark)
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaberWeb&show_icons=true&theme=github_dark&hide_border=true"/>
