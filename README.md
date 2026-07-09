@@ -12,11 +12,7 @@ Hi 👋 I'm Jaber
 Senior Full Stack Web Developer | Next.js & Express | Shopify App Developer | WordPress & WooCommerce Specialist
 </h3>
 
-<p align="center">
-
-Building scalable web applications, SaaS products, Shopify Apps and enterprise WordPress solutions for over 10 years.
-
-</p>
+<p align="center">Building scalable web applications, SaaS products, Shopify Apps and enterprise WordPress solutions for over 10 years.</p>
 
 ---
 
