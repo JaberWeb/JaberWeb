@@ -110,6 +110,18 @@ I enjoy transforming complex business requirements into clean, maintainable soft
 
 </p>
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=shopify" />
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=woocommerce" />
+
+</p>
+
 **Specialized In**
 
 - WooCommerce
