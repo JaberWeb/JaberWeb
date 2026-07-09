@@ -183,20 +183,12 @@ GitHub
 </a>
 
 •
-
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/jaber-molla-web-dev">
 LinkedIn
 </a>
 
 •
-
-<a href="YOUR_PORTFOLIO">
-Portfolio
-</a>
-
-•
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:molla.jaber@gmail.com">
 Email
 </a>
 
