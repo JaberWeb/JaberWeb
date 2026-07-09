@@ -168,6 +168,9 @@ A collection of custom plugins, WooCommerce extensions and automation tools buil
 
 </p>
 -->
+## 📈 Contribution Graph
+
+[![Jaber's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaberWeb&theme=github-dark)](https://github.com/JaberWeb)
 ---
 
 # 🤝 Let's Connect
