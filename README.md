@@ -104,22 +104,10 @@ I enjoy transforming complex business requirements into clean, maintainable soft
 
 ## CMS & eCommerce
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=wordpress" />
-
-</p>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=shopify" />
-
-</p>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=woocommerce" />
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="45" alt="WordPress" />
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="45" alt="Shopify" />
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="45" alt="WooCommerce" />
 </p>
 
 **Specialized In**
