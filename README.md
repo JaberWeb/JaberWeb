@@ -155,7 +155,7 @@ A Shopify App helping merchants understand where their customers come from throu
 A collection of custom plugins, WooCommerce extensions and automation tools built for businesses worldwide.
 
 ---
-
+<!--
 # 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaberWeb&show_icons=true&theme=github_dark)
 <p align="center">
@@ -171,7 +171,7 @@ A collection of custom plugins, WooCommerce extensions and automation tools buil
 <img src="https://streak-stats.demolab.com?user=JaberWeb&theme=github-dark&hide_border=true"/>
 
 </p>
-
+-->
 ---
 
 # 🤝 Let's Connect
