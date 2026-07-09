@@ -134,13 +134,13 @@ I enjoy transforming complex business requirements into clean, maintainable soft
 
 # 🌟 Featured Projects
 
-### 🏛 LegalEase
+### 🏛 <a href="https://rto-legal-ease.vercel.app/">LegalEase</a>
 
 A modern room booking platform built using Next.js, Better Auth, MongoDB and Express.
 
 ---
 
-### 🛍 TrueSource Shopify App
+### 🛍 <a href="https://apps.shopify.com/truesource-customer-source-tracking">TrueSource Shopify App</a>
 
 A Shopify App helping merchants understand where their customers come from through direct and indirect attribution tracking.
 
