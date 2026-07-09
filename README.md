@@ -1,7 +1,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Jaber Banner" width="100%">
+  <img src="https://i.ibb.co.com/HTn02tTS/banner.png" alt="Jaber Banner" width="100%">
 </p>
 
 <h1 align="center">
