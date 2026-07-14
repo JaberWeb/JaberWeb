@@ -136,7 +136,7 @@ I enjoy transforming complex business requirements into clean, maintainable soft
 
 ### 🏛 <a href="https://rto-legal-ease.vercel.app/">LegalEase</a>
 
-A modern room booking platform built using Next.js, Better Auth, MongoDB and Express.
+A modern lawyer booking platform built using Next.js, Better Auth, MongoDB and Express.
 
 ---
 
@@ -146,9 +146,9 @@ A Shopify App helping merchants understand where their customers come from throu
 
 ---
 
-### ⚙️ WordPress & WooCommerce Solutions
+### ⚙️ <a href="https://client-hub-pv5j.vercel.app">ClientHub</a>
 
-A collection of custom plugins, WooCommerce extensions and automation tools built for businesses worldwide.
+An 'easy to eye' client management system for freelancers and agencies
 
 ---
 <!--
