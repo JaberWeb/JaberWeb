@@ -148,7 +148,7 @@ A Shopify App helping merchants understand where their customers come from throu
 
 ### ⚙️ <a href="https://client-hub-pv5j.vercel.app">ClientHub</a>
 
-An 'easy to eye' client management system for freelancers and agencies
+An 'easy to eye' client management system for freelancers and agencies built using TypeScript, Next.js, Better Auth, MongoDB and Express.
 
 ---
 <!--
