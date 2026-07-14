@@ -28,7 +28,7 @@ I enjoy transforming complex business requirements into clean, maintainable soft
 
 # 🚀 Current Activities
 
-- 🔭 Building **LegalEase** using Next.js, Better Auth, MongoDB & Express
+- 🔭 Building PO Acknowledgement Slip Sender Shopify app for merchants
 - 🚀 Developing production Shopify Apps
 - ⚙️ Building enterprise WordPress & WooCommerce plugins
 - 🌱 Expanding my expertise in scalable backend architectures
