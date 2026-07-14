@@ -66,7 +66,7 @@ I enjoy transforming complex business requirements into clean, maintainable soft
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css" />
 
 </p>
 
@@ -86,7 +86,7 @@ I enjoy transforming complex business requirements into clean, maintainable soft
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 
 </p>
 
